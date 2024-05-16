@@ -1,1 +1,1 @@
-# js-Pamelaq
+# js-Pamela
